@@ -1,11 +1,11 @@
-# CSE220
+# <h1 align = "center">CSE220</h1>
 ## DATA STRUCTURES
 # Brac University - Fall 2024
 
-Welcome to the GitHub repository for the **Data Structures** course, **CSE111**, at **Brac University** for the **Fall 2024** semester.
+Welcome to the GitHub repository for the **Data Structures** course, **CSE220**, at **Brac University** for the **Fall 2024** semester.
 
 This course is taught in **Language Independent Platform** by our esteemed instructors:
-- Theory: _
+- Theory: Muhammad Ehsanul Kader **(EHD)**
 - Laboratory: _
 ## In this Github Repository, it is done in ***PYTHON***
 
@@ -13,8 +13,6 @@ If you are interested in doing it in ***JAVA***, check the linked repository. Li
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
-
-## ❌ Strictly Prohibited
 - **Stealing**: Using someone else's work without permission is strictly prohibited.
 - **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
 - **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
