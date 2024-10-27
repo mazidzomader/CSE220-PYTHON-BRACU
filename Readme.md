@@ -16,6 +16,10 @@ If you are interested in doing it in ***JAVA***, check the linked repository. Li
 - **Stealing**: Using someone else's work without permission is strictly prohibited.
 - **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
 - **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
+# Notice
+
+Due to plagiarism concerns, I will be updating this repository in about a week after my submission. Thank you for your understanding!
+
 
 # 📝 Message from the Author
 
