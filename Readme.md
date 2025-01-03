@@ -4,8 +4,8 @@
 Welcome to the GitHub repository for the **Data Structures** course, **CSE220**, at **Brac University** for the **Fall 2024** semester.
 
 This course is taught in **Language Independent Platform** by our esteemed instructors:
-- Theory: Muhammad Ehsanul Kader **(EHD)**
-- Laboratory: Prothito Shovon Majumder **(PSM)** and Rubayat Ahmed Khan **(RAK)**
+- Theory: Mr. Muhammad Ehsanul Kader **(EHD)**
+- Laboratory: Mr. Prothito Shovon Majumder **(PSM)** and Mr. Rubayat Ahmed Khan **(RAK)**
 ## In this Github Repository, it is done in ***PYTHON***
 
 If you are interested in doing it in ***JAVA***, check the linked repository. Link: https://github.com/Mazid-Zomader/CSE220-JAVA
