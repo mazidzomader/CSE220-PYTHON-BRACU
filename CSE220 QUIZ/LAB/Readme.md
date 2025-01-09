@@ -1,1 +1,1 @@
-## The questions of the quiz vary from faculty to faculty.
+## The questions of the quiz vary due to LAB timing.
