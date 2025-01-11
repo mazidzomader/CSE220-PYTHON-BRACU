@@ -8,7 +8,7 @@ This course is taught in **Language Independent Platform** by our esteemed instr
 - Laboratory: Mr. Prothito Shovon Majumder **(PSM)** and Mr. Rubayat Ahmed Khan **(RAK)**
 ## In this Github Repository, it is done in ***PYTHON***
 
-If you are interested in doing it in ***JAVA***, check the linked repository. Link: https://github.com/Mazid-Zomader/CSE220-JAVA
+If you are interested in doing it in ***JAVA***, check the linked repository. [Link](https://github.com/mazidzomader/CSE220-JAVA)
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
