@@ -14,14 +14,13 @@ In this Github Repository, it is done in ***PYTHON***
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/mazidzomader/CSE220-JAVA)
 
+![How does it feel](https://github.com/mazidzomader/CSE220-PYTHON-BRACU/blob/main/CSE220%20Resources/meme.jpg)
+
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
 - **Stealing**: Using someone else's work without permission is strictly prohibited.
 - **Plagiarism**: Copying someone else's work and passing it off as your own is not allowed.
 - **Proper Attribute and Recognition of Author**: If you use someone else's work as a reference, you must give them proper credit.
-# Notice
-
-Due to plagiarism concerns, I will be updating this repository in about a week after my submission. Thank you for your understanding!
 
 
 # 📝 Message from the Author
